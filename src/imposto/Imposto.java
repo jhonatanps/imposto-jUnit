@@ -28,6 +28,12 @@ public class Imposto {
         System.out.println(p.calculaDependente());
        p.getRendaLiquida();
         System.out.println(p.calculaRendaLiquida());
+       /*
+           Olha só, toda vez q fizer uma alteração vc vai la na pasta e da um git status para ver 
+        como ta a sincronização com seu repositorio, agora vou fazer isso vai ver q esse arquivo foi alterado;
+        
+        
+        */
        
     }
     
